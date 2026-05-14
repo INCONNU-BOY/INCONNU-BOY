@@ -1,6 +1,3 @@
-# 👋 INCONNU BOY
-
-🚀 Developer & WhatsApp Bot Creator
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20INCONNU%20BOY%20SENSEI&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white"/>
