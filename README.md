@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 INCONNU BOY
 
-<!--
-**INCONNU-BOY/INCONNU-BOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer & WhatsApp Bot Creator
 
-Here are some ideas to get you started:
+## Projects
+- INCONNU-XD-V2
+- FREE-MINI-BASE
+- Inco-host
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+- YouTube
+- WhatsApp Channel
+- GitHub
