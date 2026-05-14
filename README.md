@@ -28,3 +28,25 @@ const INCONNU_BOY = {
     interests: ["Bot Development", "Open Source", "Anime", "Automation"],
     currentFocus: "Building powerful WhatsApp bots & awesome web tools"
 };
+````
+---
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=INCONNU-BOY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INCONNU-BOY&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INCONNU-BOY&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
+</p>
+
+---
+
+🎥 Latest YouTube Video
+
+<p align="center">
+  <a href="https://youtu.be/n09eZbKexQY?si=r_n6K596sdT6l0Qe">
+    <img src="https://img.youtube.com/vi/n09eZbKexQY/maxresdefault.jpg" alt="Latest Video" width="60%"/>
+  </a>
+</p>
