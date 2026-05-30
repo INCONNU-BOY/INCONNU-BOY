@@ -113,7 +113,7 @@ const INCONNU_BOY = {
 ## 🤖 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/INCONNU-BOY/INCONNU-XDV1">
+  <a href="https://github.com/INCONNU-BOY/INCONNU-XD-V1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=INCONNU-BOY&repo=SHINIGAMI-MD&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=7b2ff7&text_color=ffffff"/>
   </a>
   <a href="https://github.com/INCONNU-BOY/INCONNU-XD-V2">
