@@ -144,5 +144,5 @@ const INCONNU_BOY = {
 </p>
 
 <p align="center">
-  <i>✨ Made with ❤️ from 🇧🇷 Brasil by <b>INCONNU BOY SENSEI</b> ✨</i>
+  <i>MADE IN BY<b>INCONNU BOY SENSEI</b> ❤️</i>
 </p>
