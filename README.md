@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7b2ff7,100:ff6b6b&height=220&section=header&text=👋%20INCONNU%20BOY%20SENSEI&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Developer%20%7C%20Bot%20Creator%20%7C%20Open%20Source&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7b2ff7,100:ff6b6b&height=220&section=header&text=👋%20Dawens%20%7C%20INCONNU%20BOY%20SENSEI&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Developer%20%7C%20Bot%20Creator%20%7C%20Open%20Source&descAlignY=60&descSize=18"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Real+Name:+Dawens+%F0%9F%91%8B;WhatsApp+Bot+Developer+%F0%9F%A4%96;JavaScript+%2F+Node.js+Enthusiast+%F0%9F%9A%80;Open+Source+Creator+%F0%9F%8C%9F;Anime+%26+Tech+Lover+%F0%9F%8E%8C" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -19,10 +23,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=INCONNU-BOY&label=Profile%20Views&color=7b2ff7&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=WhatsApp+Bot+Developer+%F0%9F%A4%96;JavaScript+%2F+Node.js+Enthusiast+%F0%9F%9A%80;Open+Source+Creator+%F0%9F%8C%9F;Anime+%26+Tech+Lover+%F0%9F%8E%8C" alt="Typing SVG"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Real%20Name-Dawens-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Real Name"/>
 </p>
 
 ---
@@ -31,7 +33,8 @@
 
 ```javascript
 const INCONNU_BOY = {
-    role       : "Developer & WhatsApp Bot Creator",
+    realName   : "Dawens",
+    role       : "Developer & WhatsApp Bot Creator and tools",
     languages  : ["JavaScript", "TypeScript", "HTML", "Node.js"],
     interests  : ["Bot Development", "Open Source", "Anime", "Automation"],
     location   : "🇧🇷 Brasil",
@@ -40,9 +43,13 @@ const INCONNU_BOY = {
 };
 ```
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dawens!+%F0%9F%91%8B;Also+known+as+INCONNU+BOY+SENSEI;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
+
 ---
 
-## 🌍 Localisation
+🌍 Localisation
 
 <p align="center">
   <img src="https://img.shields.io/badge/🇧🇷%20Brasil-green?style=for-the-badge&labelColor=009c3b&color=ffdf00"/>
@@ -52,7 +59,7 @@ const INCONNU_BOY = {
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -69,7 +76,7 @@ const INCONNU_BOY = {
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=INCONNU-BOY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00c6ff&icon_color=7b2ff7&text_color=ffffff" alt="GitHub Stats" width="48%"/>
@@ -78,15 +85,13 @@ const INCONNU_BOY = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INCONNU-BOY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=ffffff" alt="Top Languages" width="38%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INCONNU-BOY&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=7b2ff7&point=ff6b6b" alt="Activity Graph" width="95%"/>
+  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INCONNU-BOY&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=7b2ff7&point=ff6b6b" alt="Activity Graph" width="55%"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=INCONNU-BOY&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
@@ -94,7 +99,7 @@ const INCONNU_BOY = {
 
 ---
 
-## 🎥 Latest YouTube Video
+🎥 Latest YouTube Video
 
 <p align="center">
   <a href="https://youtu.be/n09eZbKexQY?si=r_n6K596sdT6l0Qe">
@@ -110,7 +115,7 @@ const INCONNU_BOY = {
 
 ---
 
-## 🤖 Featured Projects
+🤖 Featured Projects
 
 <p align="center">
   <a href="https://github.com/INCONNU-BOY/INCONNU-XD-V1">
@@ -123,7 +128,7 @@ const INCONNU_BOY = {
 
 ---
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/INCONNU-BOY">
@@ -144,5 +149,5 @@ const INCONNU_BOY = {
 </p>
 
 <p align="center">
-  <i>MADE IN BY<b>INCONNU BOY SENSEI</b> ❤️</i>
+  <i>MADE WITH ❤️ BY <b>DAWENS</b> (INCONNU BOY SENSEI)</i>
 </p>
